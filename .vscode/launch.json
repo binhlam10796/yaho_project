@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Stage",
+            "type": "dart",
+            "request": "launch",
+            "flutterMode": "debug",
+            "program": "lib/app/flavors/main_staging.dart",
+            "args": [
+                "--no-sound-null-safety",
+                "--cache-sksl",
+                "--purge-persistent-cache",
+            ]
+        },
+        {
+            "name": "Run Debug Prod",
+            "type": "dart",
+            "request": "launch",
+            "flutterMode": "debug",
+            "program": "lib/app/flavors/main_production.dart",
+            "args": [
+                "--no-sound-null-safety",
+                "--cache-sksl",
+                "--purge-persistent-cache",
+            ]
+        },
+        {
+            "name": "Run Release Prod",
+            "type": "dart",
+            "request": "launch",
+            "flutterMode": "release",
+            "program": "lib/app/flavors/main_production.dart",
+            "args": [
+                "--no-sound-null-safety",
+                "--cache-sksl",
+                "--purge-persistent-cache",
+            ]
+        },
+        {
+            "name": "Run Debug Dev",
+            "type": "dart",
+            "request": "launch",
+            "flutterMode": "debug",
+            "program": "lib/app/flavors/main_development.dart",
+            "args": [
+                "--no-sound-null-safety",
+                "--cache-sksl",
+                "--purge-persistent-cache",
+            ]
+        },
+        {
+            "name": "Run Release Dev",
+            "type": "dart",
+            "request": "launch",
+            "flutterMode": "release",
+            "program": "lib/app/flavors/main_development.dart",
+            "args": [
+                "--no-sound-null-safety",
+                "--cache-sksl",
+                "--purge-persistent-cache",
+            ]
+        }
+    ]
+}

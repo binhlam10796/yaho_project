@@ -1,0 +1,23 @@
+{
+  "no_route_found": "Không tìm thấy đường dẫn",
+  "contact": "Liên lạc",
+  "error": "Lỗi",
+  "continue": "Tiếp tục",
+  "login": "Đăng nhập",
+  "close": "Đóng",
+  "skip": "Bỏ qua",
+  "bad_request_error": "bad request. try again later",
+  "no_content": "Không có nội dung",
+  "forbidden_error": "Nội dung truy cập bị cấm. Vui lòng thử lại",
+  "unauthorized_error": "Người dùng không có quyền hoặc bị cấm. Vui lòng thử lại",
+  "not_found_error": "Đường dẫn không hợp lệ. Vui lòng thử lại",
+  "conflict_error": "Giá trị đã tồn tại. Vui lòng thử lại",
+  "internal_server_error": "Hệ thống đang bận xử lý. Vui lòng thử lại",
+  "timeout_error": "Quá thời gian xử lý. Vui lòng thử lại",
+  "default_error": "Đã có lỗi xảy ra. Vui lòng thử lại",
+  "no_internet_error": "Xin vui lòng kiểm tra kết nối internet của bạn",
+  "success": "Thành công",
+  "please_wait": "Vui lòng đợi",
+  "sub_please_wait": "Yêu cầu đang xử lý. Tiến trình này có thể mất vài phút.",
+  "product_developed_by": "Sản phẩm được phát triển bởi"
+}

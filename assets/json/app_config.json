@@ -1,0 +1,14 @@
+{
+    "PLUS-TEAM-YAHO-DEV": {
+        "DOMAIN_ONE": "https://reqres.in/api/",
+        "DOMAIN_TWO": "https://reqres.in/api2/"
+    },
+    "PLUS-TEAM-YAHO-STAG": {
+        "DOMAIN_ONE": "https://reqres.in/api/",
+        "DOMAIN_TWO": "https://reqres.in/api2/"
+    },
+    "PLUS-TEAM-YAHO-PROD": {
+        "DOMAIN_ONE": "https://reqres.in/api/",
+        "DOMAIN_TWO": "https://reqres.in/api2/"
+    }
+}
